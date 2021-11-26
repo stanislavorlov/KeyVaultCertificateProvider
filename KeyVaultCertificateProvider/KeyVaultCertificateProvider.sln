@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyVaultCertificateProvider", "KeyVaultCertificateProvider\KeyVaultCertificateProvider.csproj", "{57AB060B-DBC2-45F1-9242-A9DD0570FDCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyVaultCertificateProvider.Tests", "KeyVaultCertificateProvider.Tests\KeyVaultCertificateProvider.Tests.csproj", "{749164F4-0C5A-482F-8895-D181C9A71642}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57AB060B-DBC2-45F1-9242-A9DD0570FDCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57AB060B-DBC2-45F1-9242-A9DD0570FDCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57AB060B-DBC2-45F1-9242-A9DD0570FDCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57AB060B-DBC2-45F1-9242-A9DD0570FDCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749164F4-0C5A-482F-8895-D181C9A71642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749164F4-0C5A-482F-8895-D181C9A71642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749164F4-0C5A-482F-8895-D181C9A71642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749164F4-0C5A-482F-8895-D181C9A71642}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D6376C1-5F5C-4CBD-B888-8F39E95B82BD}
+	EndGlobalSection
+EndGlobal
